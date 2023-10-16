@@ -5,3 +5,5 @@ echo "kosta_makefile.sh"
 echo "kosta_git_push.sh"
 
 echo "ll"
+echo "vim"
+echo "cmatrix"

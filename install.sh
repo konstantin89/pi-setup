@@ -15,5 +15,7 @@ sudo cp "./scripts/kosta_git_push.sh" "$INSTALL_PATH"
 source ./edit_bashrc.sh
 
 ## install packages
+sudo apt -y install vim
+sudo apt -y install cmatrix
 sudo apt -y install raspberrypi-kernel-headers
 sudo apt -y install cmake
