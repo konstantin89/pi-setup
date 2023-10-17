@@ -19,3 +19,5 @@ sudo apt -y install vim
 sudo apt -y install cmatrix
 sudo apt -y install raspberrypi-kernel-headers
 sudo apt -y install cmake
+sudo apt -y install bridge-utils
+
